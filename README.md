@@ -1,4 +1,4 @@
-# rewards
+# Rewards
 Rewards Calculation Application 
 
 Simple Spring Boot Application written in Java 8 to calculate rewards of the customers in last 3 months sales per month and its total. 
